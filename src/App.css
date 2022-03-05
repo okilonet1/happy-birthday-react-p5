@@ -6,7 +6,7 @@ body {
   display: grid;
   height: 100vh;
   width: auto;
-  animation: loading 0.5s linear;
+  animation: loading 0.1s linear;
 }
 
 @keyframes loading {
